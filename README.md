@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`RandgenJek::Drawing.new.draw # => [23, 2, 12, 4, 3, 26]`
 
 ## Development
 
